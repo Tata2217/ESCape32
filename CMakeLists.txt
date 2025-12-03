@@ -51,4 +51,4 @@ endfunction()
 
 add_subdirectory(boot)
 
-add_target(LikeEarth32Inside_60L AT32F421 DEAD_TIME=66 COMP_MAP=321 SENS_MAP=0xA3 VOLT_MUL=1100)
+add_target(LikeEarth32_60L AT32F421 DEAD_TIME=66 COMP_MAP=321 SENS_MAP=0xA3 VOLT_MUL=1100)
