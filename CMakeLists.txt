@@ -51,4 +51,4 @@ endfunction()
 
 add_subdirectory(boot)
 
-add_target(LikeEarth32_70D AT32F421 DEAD_TIME=66 COMP_MAP=123 SENS_MAP=0xA3BF VOLT_MUL=1100 CURR_MUL=40)
+add_target(flyingRC_75LE AT32F421 DEAD_TIME=66 COMP_MAP=321 SENS_MAP=0xA3 VOLT_MUL=2120)
