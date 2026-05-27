@@ -51,5 +51,5 @@ endfunction()
 
 add_subdirectory(boot)
 
-add_target(Like_earth32_30g GD32E230 DEAD_TIME=40 COMP_MAP=321 SENS_MAP=0xA3 VOLT_MUL=600 LED_MAP=0xB5B3AF)
+add_target(Like_earth32_30gd GD32E230 DEAD_TIME=40 COMP_MAP=321 SENS_MAP=0xA3 VOLT_MUL=550
 
